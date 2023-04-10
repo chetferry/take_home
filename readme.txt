@@ -27,3 +27,6 @@ run the script and it prints out Hello World every 2 seconds.
 I ran out of time to do more than what is included.  I hope you like it.  Thanks.
 
 
+tested on Ubuntu 22.04 LTS see output of uname -a below:
+chet@chet-u:~/Dropbox/aTest$ uname -a
+Linux chet-u 5.19.0-38-generic #39~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 17 21:16:15 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
